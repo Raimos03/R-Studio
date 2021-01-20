@@ -1,6 +1,6 @@
 # R-Studio
 
-Esse repositório é destinado ao meu estudo de codigo em R. 
+Este repositório é destinado ao meu estudo de codigo em R. 
 Nele você encontrará Web Scrapping, gráficos e todo o meu desenvolvimento na linguagem.
 Fique à vontade. 
 
